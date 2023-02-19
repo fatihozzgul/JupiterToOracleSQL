@@ -7,4 +7,4 @@ First, create the Oracle data source (DSN) required to access the Oracle SQL dat
 
 Install the cx_Oracle Python package by running the "!pip install cx_Oracle" command on Jupyter Notebook. This package is required to establish a connection to the Oracle database.
 
-Now you can go to jupytertooraclesql.py .
+Now you can go to jupytertooraclesql.ipynb .
